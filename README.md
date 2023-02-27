@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan44&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan44" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saicharan44" alt="saicharan44" /></a></p>
 
 - 🔭 I’m currently working on **Mini project**
 
