@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT**
+- 💬 Ask me about **PYTHON HTML CSS JAVASCRIPT BOOTSTRAP NODE EXPRESS**
 
 - 📫 How to reach me **ravisai189@gmail.com**
 
